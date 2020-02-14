@@ -1,6 +1,5 @@
-let message ;
-message="love you";
-alert(message);
-let again=message;
-alert(again)
+let name='John';
+let admin;
+admin=name;
+alert(admin)
 
